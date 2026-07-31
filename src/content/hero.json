@@ -1,7 +1,7 @@
 {
   "greeting": "Hello, I'm Mashfiqur.",
   "headline": "I build scalable web platforms that turn complex business processes into elegant software.",
-  "subheadline": "Software engineer with 5+ years shipping production systems across Laravel, Vue, NestJS, and modern TypeScript stacks — with a Cum Laude CSE degree from North South University.",
+  "subheadline": "Software engineer with 7+ years shipping production systems across Laravel, Vue, NestJS, and modern TypeScript stacks — with a Cum Laude CSE degree from North South University.",
   "primaryCta": {
     "label": "View my work",
     "href": "/projects"
@@ -11,8 +11,8 @@
     "href": "/contact"
   },
   "stats": [
-    { "label": "Years of experience", "value": "5+" },
-    { "label": "Production projects", "value": "12+" },
+    { "label": "Years of experience", "value": "7+" },
+    { "label": "Production projects", "value": "20+" },
     { "label": "Companies", "value": "4" },
     { "label": "Core stacks", "value": "6" }
   ],

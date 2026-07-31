@@ -9,7 +9,7 @@ import { buildMetadata } from '@/lib/seo/metadata';
 export const metadata: Metadata = buildMetadata({
   title: 'About',
   description:
-    'About MD Mashfiqur Rahman — software engineer with 5+ years shipping web platforms across Laravel, Vue, NestJS and modern TypeScript stacks.',
+    'About MD Mashfiqur Rahman — software engineer with 7+ years shipping web platforms across Laravel, Vue, NestJS and modern TypeScript stacks.',
   path: '/about',
 });
 
