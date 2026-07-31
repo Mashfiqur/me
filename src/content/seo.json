@@ -1,0 +1,26 @@
+{
+  "siteName": "Mashfiqur Rahman — Software Engineer",
+  "title": "Mashfiqur Rahman — Software Engineer",
+  "titleTemplate": "%s · Mashfiqur Rahman",
+  "description": "Software engineer with 5+ years shipping production web platforms across Laravel, Vue, NestJS and modern TypeScript stacks. Based in Dhaka, Bangladesh.",
+  "keywords": [
+    "Mashfiqur Rahman",
+    "Software Engineer",
+    "Full-stack Engineer",
+    "Laravel Developer",
+    "Vue.js Developer",
+    "NestJS Developer",
+    "TypeScript",
+    "PostgreSQL",
+    "Docker",
+    "Dhaka Bangladesh"
+  ],
+  "author": "MD Mashfiqur Rahman",
+  "siteUrl": "https://mashfiqur.github.io/me",
+  "locale": "en_US",
+  "ogImage": "/og-image.svg",
+  "themeColor": {
+    "light": "#ffffff",
+    "dark": "#0a0a0a"
+  }
+}

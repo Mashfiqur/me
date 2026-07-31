@@ -1,0 +1,34 @@
+[
+  {
+    "id": "github",
+    "platform": "github",
+    "label": "GitHub",
+    "url": "https://github.com/Mashfiqur",
+    "handle": "@Mashfiqur",
+    "icon": "Github"
+  },
+  {
+    "id": "linkedin",
+    "platform": "linkedin",
+    "label": "LinkedIn",
+    "url": "https://www.linkedin.com/in/md-mashfiqur-rahman-b4b0a2bb",
+    "handle": "md-mashfiqur-rahman",
+    "icon": "Linkedin"
+  },
+  {
+    "id": "gitlab",
+    "platform": "gitlab",
+    "label": "GitLab",
+    "url": "https://gitlab.com/Mashfiqur",
+    "handle": "@Mashfiqur",
+    "icon": "GitBranch"
+  },
+  {
+    "id": "email",
+    "platform": "email",
+    "label": "Email",
+    "url": "mailto:mashfiqurrr@gmail.com",
+    "handle": "mashfiqurrr@gmail.com",
+    "icon": "Mail"
+  }
+]

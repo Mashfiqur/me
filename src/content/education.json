@@ -1,0 +1,33 @@
+[
+  {
+    "id": "nsu-bsc",
+    "institution": "North South University",
+    "degree": "BSc. Engineering",
+    "field": "Computer Science & Engineering",
+    "startYear": "2015",
+    "endYear": "2020",
+    "score": "3.55",
+    "scoreScale": "out of 4.00",
+    "distinction": "Cum Laude"
+  },
+  {
+    "id": "hsc",
+    "institution": "Engineering University Higher Secondary School & College",
+    "degree": "Higher Secondary School Certificate (HSC)",
+    "startYear": "2011",
+    "endYear": "2013",
+    "score": "5.0",
+    "scoreScale": "out of 5.0",
+    "department": "Science"
+  },
+  {
+    "id": "ssc",
+    "institution": "St. Gregory's High School & College",
+    "degree": "Secondary School Certificate (SSC)",
+    "startYear": "2009",
+    "endYear": "2011",
+    "score": "5.0",
+    "scoreScale": "out of 5.0",
+    "department": "Science"
+  }
+]

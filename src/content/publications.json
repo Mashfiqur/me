@@ -1,0 +1,9 @@
+[
+  {
+    "id": "placeholder-1",
+    "title": "Notes on Dockerized Laravel + Vue deployments",
+    "venue": "Personal blog (planned)",
+    "date": "2025-01-01",
+    "summary": "Practical patterns from years of shipping Laravel + Vue stacks behind NGINX and Caddy — image layout, environment separation, zero-downtime deploys and rollback strategy."
+  }
+]

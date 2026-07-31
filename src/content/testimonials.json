@@ -1,0 +1,26 @@
+[
+  {
+    "id": "testimonial-1",
+    "quote": "Mashfiqur consistently owns problems end-to-end — from clarifying requirements with stakeholders all the way through to a clean production deployment. Rare combination of depth and follow-through.",
+    "author": "Engineering Lead",
+    "role": "Engineering Lead",
+    "company": "Axilweb Ltd.",
+    "relationship": "Direct manager"
+  },
+  {
+    "id": "testimonial-2",
+    "quote": "One of the strongest full-stack engineers I've worked with. His database designs held up under real production load and his code reviews genuinely levelled up the rest of the team.",
+    "author": "Senior Engineer",
+    "role": "Senior Software Engineer",
+    "company": "Shapla",
+    "relationship": "Peer"
+  },
+  {
+    "id": "testimonial-3",
+    "quote": "Reliable, thoughtful, and pragmatic — the kind of engineer you want on the tricky problems. Delivered every milestone we agreed on without drama.",
+    "author": "Product Manager",
+    "role": "Product Manager",
+    "company": "Evident BD",
+    "relationship": "Cross-functional partner"
+  }
+]

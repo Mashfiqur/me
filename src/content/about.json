@@ -1,0 +1,51 @@
+{
+  "eyebrow": "About",
+  "heading": "Engineer by training, product-thinker by practice.",
+  "paragraphs": [
+    "I'm a dynamic and highly motivated software engineer with over five years of experience specializing in web applications that optimize business operations. My focus is on shipping systems that survive scale — from database design to deployment orchestration — without losing sight of the humans who use them.",
+    "I hold a Bachelor's degree in Computer Science & Engineering with Cum Laude distinction from North South University. My passion for innovation and adaptability as a fast learner drive my continuous growth, and I thrive when I can leverage that curiosity to tackle complex challenges alongside forward-thinking teams.",
+    "Across my career at Axilweb, Shapla, Evident BD, and Amin Travels & Tours, I've owned features end-to-end: gathering requirements from stakeholders, architecting the data model, writing the backend, converting static HTML/CSS designs into reactive Vue interfaces, dockerizing the stack, and taking it to production. I care as much about code review and mentoring as I do about the code itself."
+  ],
+  "strengths": [
+    {
+      "title": "End-to-end delivery",
+      "description": "From requirements analysis with stakeholders through Dockerized deployment on production servers.",
+      "icon": "Rocket"
+    },
+    {
+      "title": "Data-first design",
+      "description": "Lead database design and optimization across PostgreSQL, MySQL and MongoDB to keep applications fast at scale.",
+      "icon": "Database"
+    },
+    {
+      "title": "Full-stack fluency",
+      "description": "Comfortable across Laravel, NestJS, Vue, Nuxt, React and Electron — right stack for the right problem.",
+      "icon": "Layers"
+    },
+    {
+      "title": "Team multiplier",
+      "description": "Code reviews, mentoring junior developers, and staying ahead of tech trends to raise the bar for the whole team.",
+      "icon": "Users"
+    }
+  ],
+  "personality": [
+    "Analytical",
+    "Creative",
+    "Honest",
+    "Positive",
+    "Punctual",
+    "Responsible"
+  ],
+  "interests": [
+    "Innovation",
+    "Research",
+    "Exploring",
+    "Sports",
+    "Riding bike",
+    "Music"
+  ],
+  "languages": [
+    { "name": "Bangla", "proficiency": "Native" },
+    { "name": "English", "proficiency": "Professional working proficiency" }
+  ]
+}

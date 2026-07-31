@@ -1,0 +1,74 @@
+[
+  {
+    "id": "backend",
+    "label": "Backend",
+    "description": "Server-side systems, business logic and API design across PHP, Node and Python ecosystems.",
+    "icon": "Server",
+    "skills": [
+      { "name": "PHP (Laravel)", "level": "expert" },
+      { "name": "NestJS", "level": "advanced" },
+      { "name": "Express.js", "level": "advanced" },
+      { "name": "Python", "level": "proficient" },
+      { "name": "REST API design", "level": "expert" }
+    ]
+  },
+  {
+    "id": "frontend",
+    "label": "Frontend",
+    "description": "Reactive interfaces with modern component frameworks and design-system-driven styling.",
+    "icon": "LayoutGrid",
+    "skills": [
+      { "name": "Vue.js + Pinia", "level": "expert" },
+      { "name": "Nuxt.js", "level": "advanced" },
+      { "name": "React.js", "level": "advanced" },
+      { "name": "TypeScript", "level": "advanced" },
+      { "name": "Tailwind CSS", "level": "advanced" },
+      { "name": "Bootstrap", "level": "advanced" }
+    ]
+  },
+  {
+    "id": "database",
+    "label": "Database",
+    "description": "Relational and document data modeling, tuning and reporting.",
+    "icon": "Database",
+    "skills": [
+      { "name": "PostgreSQL", "level": "expert" },
+      { "name": "MySQL", "level": "expert" },
+      { "name": "MongoDB", "level": "proficient" },
+      { "name": "Prisma", "level": "advanced" }
+    ]
+  },
+  {
+    "id": "devops",
+    "label": "DevOps & Infrastructure",
+    "description": "Reproducible builds, containerized deployments and production server orchestration.",
+    "icon": "Cloud",
+    "skills": [
+      { "name": "Docker", "level": "expert" },
+      { "name": "NGINX", "level": "advanced" },
+      { "name": "Caddy", "level": "proficient" },
+      { "name": "Linux / Ubuntu", "level": "advanced" },
+      { "name": "Production deployment", "level": "expert" }
+    ]
+  },
+  {
+    "id": "desktop",
+    "label": "Desktop & Cross-platform",
+    "description": "Native-feeling desktop apps built with web technologies.",
+    "icon": "Monitor",
+    "skills": [{ "name": "Electron.js", "level": "advanced" }]
+  },
+  {
+    "id": "tools",
+    "label": "Tools & Workflow",
+    "description": "Day-to-day tooling for development, planning and collaboration.",
+    "icon": "Wrench",
+    "skills": [
+      { "name": "Git & Git Bash", "level": "expert" },
+      { "name": "VS Code", "level": "expert" },
+      { "name": "Jira", "level": "advanced" },
+      { "name": "Trello", "level": "advanced" },
+      { "name": "Basecamp", "level": "proficient" }
+    ]
+  }
+]

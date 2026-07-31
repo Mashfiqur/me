@@ -1,0 +1,119 @@
+[
+  {
+    "id": "axilweb",
+    "company": "Axilweb Ltd.",
+    "position": "Software Engineer",
+    "location": "Dhaka, Bangladesh",
+    "employmentType": "Full-time",
+    "startDate": "2022-10-01",
+    "endDate": null,
+    "current": true,
+    "companyDescription": "Axilweb is a digital agency that provides back-office support services and builds web ecosystems for organizations to modernize their business processes.",
+    "summary": "Lead full-stack delivery on client web platforms, from UI conversion and backend development through Dockerized production deployments and database optimization.",
+    "responsibilities": [
+      "Collaborated on HTML/CSS to Vue.js conversion for enhanced UI.",
+      "Developed and optimized backend functionality.",
+      "Managed code deployment to production servers.",
+      "Conducted requirement analysis with stakeholders.",
+      "Contributed to code reviews and mentored junior developers.",
+      "Dockerized the application for efficient and consistent deployment.",
+      "Orchestrated server setup and configuration for hosting the application, ensuring optimal performance and reliability.",
+      "Stayed updated on tech trends for ongoing improvement.",
+      "Led database design and optimization efforts, ensuring efficient data management and retrieval to support application functionality and performance."
+    ],
+    "achievements": [
+      "Owned database design and optimization across multiple client platforms, cutting query costs and improving reliability.",
+      "Elevated code quality across the team via structured code reviews and hands-on mentoring of junior developers.",
+      "Standardized Docker-based deployment pipelines for consistent releases across environments."
+    ],
+    "technologies": [
+      "Laravel",
+      "Vue.js",
+      "PostgreSQL",
+      "MySQL",
+      "Docker",
+      "NGINX",
+      "TypeScript",
+      "REST API",
+      "Linux"
+    ]
+  },
+  {
+    "id": "shapla",
+    "company": "Shapla",
+    "position": "Software Engineer",
+    "location": "Dhaka, Bangladesh",
+    "employmentType": "Full-time",
+    "startDate": "2021-05-01",
+    "endDate": "2022-10-31",
+    "current": false,
+    "companyDescription": "Shapla offers a versatile suite of services including HR management apps, tax filing, virtual office space, and a job portal — helping professionals and businesses run efficiently.",
+    "summary": "Delivered backend features and deployments for a multi-product SaaS suite spanning HR, tax, virtual office and a job portal.",
+    "responsibilities": [
+      "Developed and optimized backend functionality.",
+      "Managed code deployment to production servers.",
+      "Conducted requirement analysis with stakeholders.",
+      "Dockerized the application for efficient and consistent deployment.",
+      "Stayed updated on tech trends for ongoing improvement."
+    ],
+    "achievements": [
+      "Contributed to shipping the Shapla platform (shapla.io), spanning Laravel, Vue.js, Go, Python and Kong API gateway.",
+      "Introduced containerized deployment workflows across services to reduce environment drift."
+    ],
+    "technologies": [
+      "Laravel",
+      "Vue.js",
+      "PostgreSQL",
+      "Kong",
+      "Go",
+      "Python",
+      "Express.js",
+      "Docker",
+      "Caddy"
+    ]
+  },
+  {
+    "id": "evident-bd",
+    "company": "Evident BD",
+    "position": "Software Engineer",
+    "location": "Dhaka, Bangladesh",
+    "employmentType": "Full-time",
+    "startDate": "2020-05-01",
+    "endDate": "2021-05-31",
+    "current": false,
+    "companyDescription": "Evident BD is a software development company that designs and develops web applications for a wide range of businesses based on their specific needs and specifications.",
+    "summary": "Built client web applications end-to-end, translating business requirements into production-ready software that gave customers a competitive edge.",
+    "responsibilities": [
+      "Designed and developed custom web applications for diverse client businesses.",
+      "Collaborated with stakeholders to translate business needs into technical specifications.",
+      "Owned front-end and back-end implementation for client engagements.",
+      "Deployed and maintained applications in production environments."
+    ],
+    "achievements": [
+      "Delivered multiple client platforms including inventory and attendance management systems.",
+      "Provided reliable web development solutions to challenging client problems."
+    ],
+    "technologies": ["Laravel", "Bootstrap", "MySQL", "React", "Vue.js", "NGINX"]
+  },
+  {
+    "id": "amin-travels",
+    "company": "Amin Travels & Tours",
+    "position": "Junior Software Engineer",
+    "location": "Dhaka, Bangladesh",
+    "employmentType": "Full-time",
+    "startDate": "2019-03-01",
+    "endDate": "2020-04-30",
+    "current": false,
+    "companyDescription": "Amin Travels & Tours is a government-approved agency specializing in Hajj, Umrah, worldwide air ticketing, and visa processing — a trusted name serving clients seeking religious pilgrimages and international travel services.",
+    "summary": "Started my professional career building internal tools and web features that supported a busy travel operations team.",
+    "responsibilities": [
+      "Developed and maintained internal web applications supporting travel operations.",
+      "Assisted with feature implementation, bug fixing, and release deployments.",
+      "Coordinated with operations staff to translate day-to-day pain points into software improvements."
+    ],
+    "achievements": [
+      "Kicked off my professional engineering career, shipping features into a production system serving real travel operations."
+    ],
+    "technologies": ["PHP", "Laravel", "MySQL", "Bootstrap", "jQuery"]
+  }
+]

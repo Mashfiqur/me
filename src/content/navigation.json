@@ -1,0 +1,19 @@
+{
+  "primary": [
+    { "id": "home", "label": "Home", "href": "/" },
+    { "id": "about", "label": "About", "href": "/about" },
+    { "id": "experience", "label": "Experience", "href": "/experience" },
+    { "id": "projects", "label": "Projects", "href": "/projects" },
+    { "id": "skills", "label": "Skills", "href": "/skills" },
+    { "id": "education", "label": "Education", "href": "/education" },
+    { "id": "contact", "label": "Contact", "href": "/contact" }
+  ],
+  "footer": [
+    { "id": "about", "label": "About", "href": "/about" },
+    { "id": "projects", "label": "Projects", "href": "/projects" },
+    { "id": "experience", "label": "Experience", "href": "/experience" },
+    { "id": "certifications", "label": "Certifications", "href": "/certifications" },
+    { "id": "achievements", "label": "Achievements", "href": "/achievements" },
+    { "id": "contact", "label": "Contact", "href": "/contact" }
+  ]
+}

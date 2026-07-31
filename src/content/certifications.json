@@ -1,0 +1,26 @@
+[
+  {
+    "id": "docker-fundamentals",
+    "name": "Docker Fundamentals & Containerized Deployment",
+    "issuer": "Self-directed / project-based",
+    "issueDate": "2022-06-01",
+    "credentialUrl": "https://github.com/Mashfiqur",
+    "skills": ["Docker", "Docker Compose", "Container orchestration", "NGINX", "Caddy"]
+  },
+  {
+    "id": "laravel-advanced",
+    "name": "Advanced Laravel Application Architecture",
+    "issuer": "Self-directed / production experience",
+    "issueDate": "2023-01-01",
+    "credentialUrl": "https://github.com/Mashfiqur",
+    "skills": ["Laravel", "PHP", "Domain-Driven Design", "REST APIs", "Testing"]
+  },
+  {
+    "id": "postgres-performance",
+    "name": "PostgreSQL Performance & Schema Design",
+    "issuer": "Self-directed / production experience",
+    "issueDate": "2023-08-01",
+    "credentialUrl": "https://github.com/Mashfiqur",
+    "skills": ["PostgreSQL", "Query optimization", "Indexing", "Data modeling"]
+  }
+]

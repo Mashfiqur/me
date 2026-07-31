@@ -1,0 +1,168 @@
+[
+  {
+    "id": "shapla",
+    "name": "Shapla",
+    "slug": "shapla",
+    "summary": "Multi-product SaaS suite spanning HR management, tax filing, virtual office and a job portal.",
+    "description": "Shapla is a versatile business platform offering HR management apps, tax filing tools, virtual office space and a job portal in one integrated ecosystem. I contributed across backend services, Vue-based interfaces and containerized deployments powering the shapla.io platform.",
+    "role": "Software Engineer",
+    "year": "2022",
+    "status": "live",
+    "featured": true,
+    "thumbnail": "/projects/shapla.svg",
+    "url": "https://www.shapla.io",
+    "technologies": [
+      "Laravel",
+      "Vue.js",
+      "Kong",
+      "PostgreSQL",
+      "Go",
+      "Python",
+      "Express.js",
+      "Docker",
+      "Caddy"
+    ],
+    "tags": ["SaaS", "Multi-product", "API Gateway", "HR", "FinTech"],
+    "highlights": [
+      "Multi-service architecture behind a Kong API gateway",
+      "Dockerized deployment across the full stack",
+      "Polyglot backend combining Laravel, Go and Python services"
+    ]
+  },
+  {
+    "id": "northwest-driving-school",
+    "name": "Northwest Driving School",
+    "slug": "northwest-driving-school",
+    "summary": "Booking, scheduling and student management platform for a US-based driving school.",
+    "description": "A production web application powering day-to-day operations for Northwest Driving School — student onboarding, lesson scheduling, instructor coordination and administrative workflows on a Laravel + Vue stack.",
+    "role": "Software Engineer",
+    "year": "2023",
+    "status": "live",
+    "featured": true,
+    "thumbnail": "/projects/nwds.svg",
+    "url": "https://northwestdrivingschool.com",
+    "technologies": ["Laravel", "Vue.js", "PostgreSQL", "Docker", "NGINX"],
+    "tags": ["Education", "Scheduling", "SaaS"],
+    "highlights": [
+      "End-to-end student and instructor scheduling workflows",
+      "Dockerized production deployment behind NGINX",
+      "PostgreSQL data model tuned for reporting and reservations"
+    ]
+  },
+  {
+    "id": "xtc-exotics",
+    "name": "XTC Exotics",
+    "slug": "xtc-exotics",
+    "summary": "E-commerce and fleet management platform for a US-based exotic vehicle marketplace.",
+    "description": "XTC Exotics is a specialty automotive platform that combines online catalog browsing with backend fleet and inventory operations. Built with Laravel + Vue, PostgreSQL and Docker for reliable production hosting.",
+    "role": "Software Engineer",
+    "year": "2023",
+    "status": "live",
+    "featured": true,
+    "thumbnail": "/projects/xtc.svg",
+    "url": "https://xtcexotics.com",
+    "technologies": ["Laravel", "Vue.js", "PostgreSQL", "Docker", "NGINX"],
+    "tags": ["E-commerce", "Automotive", "Marketplace"],
+    "highlights": [
+      "Catalog, inventory and fleet management in one platform",
+      "Vue-driven customer experience over a Laravel API",
+      "Containerized deployment with NGINX reverse proxy"
+    ]
+  },
+  {
+    "id": "manage-your-ecommerce",
+    "name": "Manage Your Ecommerce",
+    "slug": "manage-your-ecommerce",
+    "summary": "Cross-platform ecommerce operations tool integrating multiple sales channels.",
+    "description": "Manage Your Ecommerce is an operations dashboard that helps online sellers coordinate inventory, orders and analytics across sales channels. Built on Laravel and Vue with Flask microservices and a MySQL data layer.",
+    "role": "Software Engineer",
+    "year": "2022",
+    "status": "live",
+    "featured": true,
+    "thumbnail": "/projects/mye.svg",
+    "url": "https://www.manageyourecommerce.com",
+    "technologies": ["Laravel", "Vue.js", "Flask", "MySQL", "Docker", "NGINX"],
+    "tags": ["E-commerce", "Operations", "Analytics"],
+    "highlights": [
+      "Hybrid Laravel + Flask backend for operational and analytical workloads",
+      "Vue.js dashboard with cross-channel order visibility",
+      "Fully dockerized deployment"
+    ]
+  },
+  {
+    "id": "inventory-keeper",
+    "name": "Inventory Keeper",
+    "slug": "inventory-keeper",
+    "summary": "Inventory and stock management platform for small and mid-sized businesses.",
+    "description": "Inventory Keeper is a straightforward, reliable inventory system that lets SMBs track stock, purchases and sales without heavyweight ERP overhead. Built on Laravel + Bootstrap with a MySQL backend.",
+    "role": "Software Engineer",
+    "year": "2021",
+    "status": "live",
+    "featured": false,
+    "thumbnail": "/projects/inventory-keeper.svg",
+    "url": "https://www.inventorykeeper.net",
+    "technologies": ["Laravel", "Bootstrap", "MySQL", "NGINX"],
+    "tags": ["SMB", "Inventory", "Operations"],
+    "highlights": [
+      "Purpose-built for small and mid-sized retail operations",
+      "Server-rendered Laravel + Bootstrap UI for reliability on low-end hardware"
+    ]
+  },
+  {
+    "id": "attendance-keeper",
+    "name": "Attendance Keeper",
+    "slug": "attendance-keeper",
+    "summary": "Attendance management platform with a web dashboard and companion mobile experience.",
+    "description": "Attendance Keeper handles staff and student attendance tracking with reporting, exports and role-based access. Laravel + Bootstrap on the server, React on the interactive front-end, MySQL for storage.",
+    "role": "Software Engineer",
+    "year": "2021",
+    "status": "live",
+    "featured": false,
+    "thumbnail": "/projects/attendance-keeper.svg",
+    "url": "https://attendancekeeper.net",
+    "technologies": ["Laravel", "Bootstrap", "MySQL", "React", "NGINX"],
+    "tags": ["HR", "Attendance", "Reporting"],
+    "highlights": [
+      "Role-based dashboards for admins, managers and staff",
+      "React front-end embedded in a Laravel-served application"
+    ]
+  },
+  {
+    "id": "attendance-keeper-desktop",
+    "name": "Attendance Keeper Desktop",
+    "slug": "attendance-keeper-desktop",
+    "summary": "Electron-based desktop client for Attendance Keeper.",
+    "description": "A cross-platform desktop companion to the Attendance Keeper web app, built with Electron so on-site attendance workflows keep running even with intermittent connectivity.",
+    "role": "Software Engineer",
+    "year": "2021",
+    "status": "live",
+    "featured": false,
+    "thumbnail": "/projects/attendance-desktop.svg",
+    "url": "https://play.google.com/store/apps/details?id=net.attendancekeeper.app&pli=1",
+    "technologies": ["Electron.js", "JavaScript", "HTML", "CSS"],
+    "tags": ["Desktop", "Cross-platform", "HR"],
+    "highlights": [
+      "Cross-platform Electron desktop client",
+      "Companion to the Attendance Keeper web platform"
+    ]
+  },
+  {
+    "id": "pdf-ocr",
+    "name": "PDF OCR",
+    "slug": "pdf-ocr",
+    "summary": "Document processing service that extracts structured text from PDF uploads.",
+    "description": "A Flask-based OCR pipeline with a Vue.js front-end for uploading PDFs and receiving structured, searchable text output. Deployed with Docker behind NGINX on a PostgreSQL data store.",
+    "role": "Software Engineer",
+    "year": "2022",
+    "status": "live",
+    "featured": false,
+    "thumbnail": "/projects/pdf-ocr.svg",
+    "technologies": ["Flask", "Vue.js", "PostgreSQL", "Docker", "NGINX"],
+    "tags": ["OCR", "Document processing", "Python"],
+    "highlights": [
+      "Async OCR pipeline in Python",
+      "Vue.js upload/preview interface",
+      "Containerized deployment"
+    ]
+  }
+]

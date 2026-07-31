@@ -1,0 +1,34 @@
+[
+  {
+    "id": "cum-laude",
+    "title": "Cum Laude — BSc. Engineering in Computer Science & Engineering",
+    "organization": "North South University",
+    "date": "2020-04-30",
+    "description": "Graduated with Cum Laude distinction (CGPA 3.55/4.00), recognizing sustained academic excellence across the CSE program.",
+    "category": "Academic"
+  },
+  {
+    "id": "shapla-launch",
+    "title": "Contributed to the launch of the Shapla platform",
+    "organization": "Shapla",
+    "date": "2022-06-01",
+    "description": "Part of the engineering team behind the multi-product Shapla suite spanning HR management, tax filing, virtual office and a job portal.",
+    "category": "Product"
+  },
+  {
+    "id": "mentorship",
+    "title": "Mentorship & code-review leadership",
+    "organization": "Axilweb Ltd.",
+    "date": "2023-01-01",
+    "description": "Elevated team code quality via structured reviews and mentoring of junior engineers on Laravel, Vue and deployment workflows.",
+    "category": "Leadership"
+  },
+  {
+    "id": "docker-standardization",
+    "title": "Standardized Docker deployment workflows",
+    "organization": "Axilweb Ltd.",
+    "date": "2023-04-01",
+    "description": "Drove adoption of Dockerized deployment pipelines across client projects, reducing environment drift and manual release toil.",
+    "category": "Engineering"
+  }
+]
